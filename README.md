@@ -46,3 +46,10 @@ Meeting Agenda templates (located in the `/docs` directory in this repo):
 - Ako: [GitHub](https://github.com/AkoKBIkeda) / [LinkedIn](https://linkedin.com/in/akiko-kb-ikeda)
 - Bisi: [GitHub](https://github.com/skellynb) / [LinkedIn](https://linkedin.com/in/bisola-s-ogunsina)
 - Tonia: [GitHub](https://github.com/MontgomeryT7294) / [LinkedIn](https://linkedin.com/in/tonia-montgomery)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0.
+See the [LICENSE](./LICENSE) file for details.
+
+You may redistribute and/or modify this software under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License or (at your option) any later version.
