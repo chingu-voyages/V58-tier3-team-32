@@ -44,3 +44,7 @@ Meeting Agenda templates (located in the `/docs` directory in this repo):
 - Ako: [GitHub](https://github.com/AkoKBIkeda) / [LinkedIn](https://linkedin.com/in/akiko-kb-ikeda)
 - Bisi: [GitHub](https://github.com/skellynb) / [LinkedIn](https://linkedin.com/in/bisola-s-ogunsina)
 - Tonia: [GitHub](https://github.com/MontgomeryT7294) / [LinkedIn](https://linkedin.com/in/tonia-montgomery)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
