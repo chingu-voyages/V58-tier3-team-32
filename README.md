@@ -47,4 +47,7 @@ Meeting Agenda templates (located in the `/docs` directory in this repo):
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+This project is licensed under the GNU General Public License v3.0.
+See the [LICENSE](./LICENSE) file for details.
+
+You may redistribute and/or modify this software under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License or (at your option) any later version.
