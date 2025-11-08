@@ -24,7 +24,12 @@ Optionally chat with an AI assistant to learn how to use the app.
 
 ## **Tech Used / Dependencies**
 
+## Running the Project
 
+1. Clone the [repo](https://github.com/chingu-voyages/v58-tier3-team-32) (or your fork) and `cd` into it.
+1. Run `npm install` in your bash/command line to install the dependencies.
+1. Run `npm run dev` in your bash/command line to run the development server.
+1. Visit the [website](http://localhost:3000) locally.
 
 ## Team Documents
 
