@@ -2,11 +2,9 @@
 
 import { PageWrapper } from "../component/layouts/PageWrapper";
 import ColorSample from "./components/ColorSample";
-
 import { HeadlineXL, Subheading1, Subheading2, Headline, Body1, Body2, Caption, Label } from "../component/typography";
-
 import { Button } from "@/components/ui/button";
-import { MapPin, Home, Filter, Users, Copyright, Github} from "lucide-react";
+import ChevronDown from "@/components/ui/icons/ChevronDown";
 
 export default function DesignSystemPage() {
   const colors = [
@@ -84,30 +82,10 @@ export default function DesignSystemPage() {
           <Body1 className="mb-3 font-bold">Link</Body1>
           <p>This is a sample of a link: <a href="#" className="link">Example Link</a></p>
 
-          {/* <Body1 className="mb-3 font-bold">Icon Buttons</Body1>
-          <div className="flex flex-wrap gap-4">
-            <Button size="icon" variant="secondary" title="Map Search">
-              <MapPin />
-            </Button>
-            <Button size="icon" variant="outline" title="Filter Users">
-              <Filter />
-            </Button>
-            <Button size="icon" variant="outline" title="c-icon">
-              <Copyright />
-            </Button>
-            <Button size="icon" variant="outline" title="github">
-              <Github />
-            </Button>
-            <Button size="icon" variant="outline" title="Home">
-              <Home />
-            </Button>
-            <Button
-              className="bg-teal-500 text-black hover:bg-teal-600"
-              title="Community"
-            >
-              <Users />
-            </Button>
-          </div> */}
+          <Body1 className="mb-3 font-bold mt-6">Reusable Icons</Body1>
+          <p className="inline-flex items-center gap-1"><ChevronDown size={16} />This is a size 16 icon</p><br />
+          <p className="inline-flex items-center gap-1"><ChevronDown />This is a default icon (size 20)</p><br />
+          <p className="inline-flex items-center gap-1"><ChevronDown size={24} />This is a size 24 icon</p>
         </section>
       </main>
     </PageWrapper>
