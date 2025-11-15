@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 
-interface MemberModel {}
+type MemberModel = unknown;
 
 export async function GET(request: NextRequest) {
   // Query Parameters (e.g. `/api/members?gender=Male`)
